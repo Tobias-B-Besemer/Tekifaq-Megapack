@@ -1,0 +1,11 @@
+Tekifaq-Megapack_v2015-09-23_-_FILE_ID.DIZ.txt
+==============================================
+Includes:
+- Tekifaq_-_About_-_v2015-09-23.txt
+- Tekifaq_-_Friends_-_v2015-09-23.ods
+- Tekifaq_-_Friends_-_v2015-09-23.xls
+- Tekifaq_-_Friends_-_v2015-09-23.pdf
+- 50 pics
+- 1 vid (w/ his voice)
+- His game (ai_v0.73c_win.rar)
+- A log fom him (output_log.txt)
